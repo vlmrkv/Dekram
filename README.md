@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Dekram/Dekram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vlmrkv/vlmrkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dekram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dekram&theme=dark)](https://github.com/Dekram/github-readme-stats)
+[![vlmrkv's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlmrkv&theme=dark)](https://github.com/vlmrkv/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dekram&layout=compact&theme=dark)](https://github.com/Dekram/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlmrkv&layout=compact&theme=dark)](https://github.com/vlmrkv/github-readme-stats)
